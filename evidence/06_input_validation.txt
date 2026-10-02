@@ -1,0 +1,9 @@
+HTTP/1.1 400 
+Server: openresty/1.17.8.2
+Date: Fri, 02 Oct 2026 04:34:32 GMT
+Content-Type: text/html;charset=utf-8
+Content-Length: 435
+Connection: keep-alive
+Content-Language: en
+
+<!doctype html><html lang="en"><head><title>HTTP Status 400 – Bad Request</title><style type="text/css">body {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>HTTP Status 400 – Bad Request</h1></body></html>
